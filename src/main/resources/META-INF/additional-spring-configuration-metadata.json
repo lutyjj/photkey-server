@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "upload-dir",
+      "type": "java.lang.String",
+      "description": "Upload directory."
+    },
+    {
+      "name": "date-pattern",
+      "type": "java.lang.String",
+      "description": "Date format."
+    }
+  ]
+}
